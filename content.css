@@ -1,0 +1,7 @@
+.content{
+    color:black;
+    font:normal 20px Arial, sans-serif;
+    line-height: 1.5; 
+    text-align: justify;
+    border: 5px dotted black;
+}
